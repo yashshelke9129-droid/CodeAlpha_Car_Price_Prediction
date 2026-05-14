@@ -1,2 +1,20 @@
-# CodeAlpha_Car_Price_Prediction
-Machine Learning project for predicting car prices using Python and Linear Regression.
+# Car Price Prediction
+
+This project predicts car prices using Machine Learning and Linear Regression.
+
+## Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- Scikit-learn
+
+## Features
+- Data preprocessing
+- Car price prediction
+- Data visualization
+
+## Machine Learning Algorithm
+Linear Regression
+
+## Author
+Yash Shelke
